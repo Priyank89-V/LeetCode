@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priyank89-V/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0912-sort-an-array](https://github.com/Priyank89-V/LeetCode/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priyank89-V/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0912-sort-an-array](https://github.com/Priyank89-V/LeetCode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -35,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Priyank89-V/LeetCode/tree/master/0912-sort-an-array) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priyank89-V/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priyank89-V/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priyank89-V/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
