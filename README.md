@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Priyank89-V/LeetCode/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/Priyank89-V/LeetCode/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
