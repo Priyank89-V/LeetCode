@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Priyank89-V/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priyank89-V/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Priyank89-V/LeetCode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Priyank89-V/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Priyank89-V/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Priyank89-V/LeetCode/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Priyank89-V/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Priyank89-V/LeetCode/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/Priyank89-V/LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Priyank89-V/LeetCode/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Priyank89-V/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
