@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Priyank89-V/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Priyank89-V/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priyank89-V/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/Priyank89-V/LeetCode/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/Priyank89-V/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Priyank89-V/LeetCode/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Priyank89-V/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Priyank89-V/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Math
 |  |
