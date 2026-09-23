@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Priyank89-V/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Priyank89-V/LeetCode/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/Priyank89-V/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [3870-count-commas-in-range](https://github.com/Priyank89-V/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Priyank89-V/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
