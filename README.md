@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Priyank89-V/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Priyank89-V/LeetCode/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Priyank89-V/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Priyank89-V/LeetCode/tree/master/0070-climbing-stairs) |
 | [3870-count-commas-in-range](https://github.com/Priyank89-V/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Priyank89-V/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Priyank89-V/LeetCode/tree/master/0217-contains-duplicate) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Priyank89-V/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
