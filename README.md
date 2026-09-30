@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Priyank89-V/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Priyank89-V/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Priyank89-V/LeetCode/tree/master/0912-sort-an-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Priyank89-V/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Priyank89-V/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2239-find-closest-number-to-zero](https://github.com/Priyank89-V/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 ## Divide and Conquer
