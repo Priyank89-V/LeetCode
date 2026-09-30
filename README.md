@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Priyank89-V/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priyank89-V/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Priyank89-V/LeetCode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Priyank89-V/LeetCode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Priyank89-V/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Priyank89-V/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Priyank89-V/LeetCode/tree/master/0912-sort-an-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Priyank89-V/LeetCode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priyank89-V/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Priyank89-V/LeetCode/tree/master/0162-find-peak-element) |
 ## Binary Tree
 |  |
 | ------- |
